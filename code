@@ -12,4 +12,4 @@ if ans2>12:
 elif ans2==12:
     print("That's right!")
 else:
-    print("We've have gone! well past that!")
+    print("We've begone well past that!")
